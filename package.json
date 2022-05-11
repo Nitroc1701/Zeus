@@ -1,5 +1,5 @@
 {
-  "name": "nitroc-site",
+  "name": "zeus",
   "private": true,
   "scripts": {
     "build": "nuxt build",
